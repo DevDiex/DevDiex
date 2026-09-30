@@ -1,4 +1,4 @@
-# Sup everyone, I'm a junior software engineer!
+# Sup everyone, i'm a junior software engineer
 
 I am a backend developer focusing on building reliable software systems. My main areas of interest are **FinTech**, **Retail (banking systems)**, and creating useful tools like **automation bots** for servers/Different things
 
