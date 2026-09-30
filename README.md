@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm a junior software engineer! 👋
 
-<!--
-**DevDiex/DevDiex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate software developer deeply studying **C#** and specializing in the **.NET Core** ecosystem. Currently, I am sharpening my skills and focusing heavily on **ASP.NET Core**, microservices, and containerization with **Docker**.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
+
+### 🚀 What I'm focusing on right now:
+- 🌐 Building robust web applications with **ASP.NET Core**.
+- 🐳 Containerizing apps using **Docker** for seamless deployment.
+- 🎮 Exploring game development and logic with **Unity**.
+
