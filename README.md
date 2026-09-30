@@ -1,17 +1,5 @@
-# Hey, I'm a junior software engineer! 👋
+# Good morning ladies and gentleman, i'm a junior software engineer
 
-I am a passionate software developer deeply studying **C#** and specializing in the **.NET Core** ecosystem. Currently, I am sharpening my skills and focusing heavily on **ASP.NET Core**, microservices, and containerization with **Docker**.
+[![My Skills](https://skillicons.dev/icons?i=cs,docker,c++,.NET&theme=light)](https://skillicons.dev)
 
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
-
-### 🚀 What I'm focusing on right now:
-- 🌐 Building robust web applications with **ASP.NET Core**.
-- 🐳 Containerizing apps using **Docker** for seamless deployment.
-- 🎮 Exploring game development and logic with **Unity**.
-
+that's the main things i'm focusing on, fintech/retail companies like banking systems/software development (any bots for people to use in their servers)
