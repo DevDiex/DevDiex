@@ -6,12 +6,12 @@ I am a backend developer focusing on building reliable software systems. My main
 
 ### 🛠️ Tech Stack & Tools
 
-* [![C#](https://skillicons.dev)](https://skillicons.dev) **C#** — Main programming language
-* [![.NET](https://skillicons.dev)](https://skillicons.dev) **.NET Core / ASP.NET Core** — Web API & Backend development
-* [![PostgreSQL](https://skillicons.dev)](https://skillicons.dev) **PostgreSQL** — Relational database for financial data
-* [![Redis](https://skillicons.dev)](https://skillicons.dev) **Redis** — Caching and high-performance data storage
-* [![Docker](https://skillicons.dev)](https://skillicons.dev) **Docker** — Containerization & Deployment
-* [![Git](https://skillicons.dev)](https://skillicons.dev) **Git & GitHub** — Version control & Collaboration
+* [![C#](https://shields.io)](https://github.com) — Main programming language
+* [![.NET](https://shields.io)](https://github.com) — Web API & Backend development
+* [![PostgreSQL](https://shields.io)](https://github.com) — Relational database for financial data
+* [![Redis](https://shields.io)](https://github.com) — Caching and high-performance data storage
+* [![Docker](https://shields.io)](https://github.com) — Containerization & Deployment
+* [![Git](https://shields.io)](https://github.com) — Version control & Collaboration
 
 ---
 
