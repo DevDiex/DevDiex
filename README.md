@@ -6,12 +6,7 @@ I am a backend developer focusing on building reliable software systems. My main
 
 ### 🛠️ Tech Stack & Tools
 
-* [![C#](https://shields.io)](https://github.com) — Main programming language
-* [![.NET](https://shields.io)](https://github.com) — Web API & Backend development
-* [![PostgreSQL](https://shields.io)](https://github.com) — Relational database for financial data
-* [![Redis](https://shields.io)](https://github.com) — Caching and high-performance data storage
-* [![Docker](https://shields.io)](https://github.com) — Containerization & Deployment
-* [![Git](https://shields.io)](https://github.com) — Version control & Collaboration
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
 ---
 
