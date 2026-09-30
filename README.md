@@ -6,12 +6,12 @@ I am a backend developer focusing on building reliable software systems. My main
 
 ### 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,PostgreSQL,redis,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker,git,github)](https://skillicons.dev)
 
 ---
 
-### 🚀 What I'm learning & exploring right now:
+###  that's what i'm exploring right now and will study even more
 
-- 🏗️ **Architecture & Clean Code:** Learning Design Patterns, SOLID principles, and Clean Architecture in .NET.
-- ⚙️ **Databases & Optimization:** Deepening my knowledge of SQL queries optimization and indexes.
-- 🤖 **Automation:** Developing feature-rich asynchronous Discord/Telegram bots with proper project structure.
+- Learning Design Patterns, SOLID principles, and Clean Architecture in .NET.
+- Deepening my knowledge of SQL queries optimization and indexes.
+- Developing feature-rich asynchronous Discord/Telegram bots with proper project structure.
