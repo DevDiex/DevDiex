@@ -6,7 +6,7 @@ I am a backend developer focusing on building reliable software systems. My main
 
 ### 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker.PostgreSQL,redis,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,PostgreSQL,redis,docker,git,github)](https://skillicons.dev)
 
 ---
 
